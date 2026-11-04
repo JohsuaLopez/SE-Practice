@@ -1,0 +1,3 @@
+1. took me about 40 minutes, i decided to try to learn some more
+2. i got hints when trying to add numbers to a list inside my loop, and also when i was building the for loop for syntax, then lastly the $ when writing it out to the console.
+3. The rest was me using what i know and breaking it down into logical steps, and then trying to implement them as best as i can in c#. It was challenging just getting used to the syntax since i have not taken a proper course for beginners.
