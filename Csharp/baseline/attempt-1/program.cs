@@ -10,7 +10,7 @@ int average = 0;
 list<int> numbers = new List<int>();
 
 while(true){
-		string input = console.Readline
+		string input = console.Readline()
 
 		if (input == "")
 			break
