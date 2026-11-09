@@ -1,0 +1,1 @@
+Honestly, this one was much simpler as I had previously been introduced to a dictionary in leetcode. Only trouble was using python after not using it for a long time. 
