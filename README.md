@@ -21,19 +21,20 @@ I'm a software engineering student at New England Institute of Technology (NEIT)
 
 ```
 se-practice/
-├── baseline/       Week 1 diagnostic tests (Nov 2026) — where I started
-├── csharp/         C# fundamentals, collections + LINQ, OOP, files, async, EF Core, Web API, xUnit
-├── javascript/     fundamentals, arrays/objects, DOM, forms, async/fetch, classes
-├── html-css/       responsive layouts, accessible forms
-├── sql/            SQL Server syntax unless the file says otherwise (MySQL/SQLite noted)
-├── python-dsa/     Big-O, recursion, stacks/queues, hash maps, trees, graphs, LeetCode
-└── git/            branch / merge-conflict / pull-request exercises
+├── Csharp/         C# fundamentals, collections + LINQ, OOP, files, async, EF Core, Web API, xUnit
+├── Javascript/     fundamentals, arrays/objects, DOM, forms, async/fetch, classes
+├── Python/         Big-O, recursion, stacks/queues, hash maps, trees, graphs, LeetCode
+├── HTML-CSS/       (coming) responsive layouts, accessible forms
+├── SQL/            (coming) SQL Server syntax unless the file says otherwise (MySQL/SQLite noted)
+└── Git/            (coming) branch / merge-conflict / pull-request exercises
 ```
 
-Each attempt gets its own folder, named by skill, date, and attempt number:
+Each language folder starts with `baseline/`, the Week 1 diagnostic tests (Nov 2026) that show where I started.
+
+Each attempt gets its own folder inside its skill folder, named by date and attempt number:
 
 ```
-csharp/collections-linq/2027-01-20-attempt-1/
+Csharp/collections-linq/2027-01-20-attempt-1/
 ├── Program.cs
 └── NOTES.md
 ```
