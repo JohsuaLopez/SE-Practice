@@ -21,12 +21,18 @@ const itemqty2 = items.filter(it => it.qty > 2).map(it => it.name);
 
 const tax = 0.08
 
-const num2 = items.map(it => it.price - it.price * tax);
+const num2 = items.map(it => it.price + it.price * tax);
 
 
 const test = items.find(it => it.price > 5 );
+
+
+const total = items.reduce((sum, it) => sum + it.price * it.qty, 0);
+
+const biggest = [4, 1, 7, 3].reduce((best, n) => (n > best ? n : best), 0);
 
 console.log(test,"Third req");
 
 console.log(itemqty2,"First req");
 console.log(num2,"Second req");
+
